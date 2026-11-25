@@ -1,0 +1,8 @@
+{
+  "name": "RutaControl Encomiendas",
+  "description": "Control operativo de encomiendas, sucursales y recorrido de estados con validación de reglas y roles diferenciados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
